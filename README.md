@@ -30,3 +30,14 @@ Student.java: Model class representing a student entity.
 Student_Database.java: Handles SQLite database connection and CRUD operations.
 
 Main.java: Main class with the user interface loop for menu-driven interaction.
+
+# OUTPUTS
+
+![image](https://github.com/user-attachments/assets/be8ac44d-1cfa-4442-9afb-40d290262855)
+
+![image](https://github.com/user-attachments/assets/6d135016-d903-4b92-b3c3-7eee3e31255b)
+
+![image](https://github.com/user-attachments/assets/b20f5a36-0695-4c3c-8cb8-37ccd12ce977)
+
+
+
